@@ -157,7 +157,8 @@ Execute the program using runserver command.
 
 ```
 ## OUTPUT
-![Screenshot (1)](https://github.com/user-attachments/assets/c94b32e7-7010-4a27-af36-ccfc1bef3b06)
+![Screenshot 2025-04-25 133754](https://github.com/user-attachments/assets/81751db6-cb76-4aaf-8495-190e1c7bbcf2)
+
 
 
 ## RESULT
